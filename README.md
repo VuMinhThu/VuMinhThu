@@ -10,13 +10,12 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DevMinhThu).
 - 💬 Ask me about anything if I can help.
 - 📝[Resume](https://drive.google.com/file/d/1mAvxdLewHEGf6csELogytDjGo6dx-bNx/view)
-<details>
-  <summary><b>📫 How to reach me:</b></summary>
+- <summary><b>📫 How to reach me:</b></summary>
 	<ul>
 	    <li>devminhthu2023@gmail.com</li>
 	    <li>vmthu20@gmail.com</li>
 	</ul>	
-</details>
+
 <hr>
 
 ### **Languages and Tools:**  
