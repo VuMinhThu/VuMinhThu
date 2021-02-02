@@ -9,13 +9,12 @@
 - 🌱 I’m currently learning Firebase.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DevMinhThu).
 - 💬 Ask me about anything if I can help.
-- 📝[Resume](https://drive.google.com/file/d/1mAvxdLewHEGf6csELogytDjGo6dx-bNx/view)
 - <summary><b>📫 How to reach me:</b></summary>
 	<ul>
 	    <li>devminhthu2023@gmail.com</li>
 	    <li>vmthu20@gmail.com</li>
-	</ul>	
-
+	</ul>
+- 📝[Resume](https://drive.google.com/file/d/1mAvxdLewHEGf6csELogytDjGo6dx-bNx/view)
 <hr>
 
 ### **Languages and Tools:**  
